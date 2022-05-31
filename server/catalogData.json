@@ -1,0 +1,10 @@
+[
+  { "product_name": "Mouse", "price": 200, "id_product": 111 },
+  { "product_name": "Keyboard", "price": 300, "id_product": 112 },
+  { "product_name": "Micrpphone", "price": 250, "id_product": 113 },
+  { "product_name": "Headphone", "price": 350, "id_product": 114 },
+  { "product_name": "Laptop", "price": 4000, "id_product": 115 },
+  { "product_name": "Mousepad", "price": 150, "id_product": 116 },
+  { "product_name": "Monitor", "price": 3500, "id_product": 117 },
+  { "product_name": "Gamepad", "price": 500, "id_product": 118}
+]
